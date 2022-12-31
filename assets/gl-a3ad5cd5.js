@@ -1,0 +1,1 @@
+const s={songs:"Cancións",albums:"Álbums",singles:"Singles",artists:"Artistas",similar_artists:"Artistas similares",moods:"Estado de ánimo",genres:"Xéneros",featured:"Destacado"},t={blur:"Desenfoque"},e={title:s,pref:t};export{e as default,t as pref,s as title};
